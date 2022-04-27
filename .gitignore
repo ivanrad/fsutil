@@ -1,0 +1,11 @@
+*~
+*.swp
+.DS_Store
+.vscode/
+*.test
+*.out
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
